@@ -33,3 +33,4 @@ class ConfigManager {
 const configManager = ConfigManager.getInstance();
 const databaseConfig = configManager.getDatabaseConfig();
 const apiKey = configManager.getApiKey();
+
